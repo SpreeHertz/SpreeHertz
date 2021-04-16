@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on <a href="https://github.com/spreehertz/cleckzie">Cleckzie </a>
 - 🌱 I’m currently learning JS, HTML and CSS
-- 📫 How to reach me: <a href="https://www.twitter.com/spreehertz">Twitter</a>
+- 📫 Talk to me on <a href="https://www.twitter.com/spreehertz">Twitter</a>
 - 😄 Pronouns: Spree
 
 ### My Languages and Tools:
