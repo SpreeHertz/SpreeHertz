@@ -8,16 +8,18 @@
 - 😄 Pronouns: Spree
 
 ### My Languages and Tools:
+<div>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
 <img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
 <img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
 <img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png"/> 
+</div>
 
-
+<div>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=SpreeHertz&show_icons=true&locale=en&theme=graywhite&layout=compact" alt="spree" />
 </p>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SpreeHertz&show_icons=true&locale=en&layout=compact&theme=graywhite" alt="spree" />
 </p>
-
+<div>
