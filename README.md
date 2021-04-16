@@ -14,4 +14,10 @@
 <img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png"/> 
 
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=SpreeHertz&show_icons=true&locale=en&theme=graywhite&layout=compact" alt="spree" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SpreeHertz&show_icons=true&locale=en&layout=compact&theme=graywhite" alt="spree" />
+</p>
 
