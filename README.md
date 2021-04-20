@@ -13,7 +13,7 @@
 <img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
 <img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png"/>
 <img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png/> 
-<img align="left" alt="css" width="26px" src="![image](https://user-images.githubusercontent.com/48062454/115431660-2d26ba80-a223-11eb-8b29-5b4885b217a5.png)" <a href="https://en.wikipedia.org/wiki/CSS"</a> <br> <br>
+<img align="left" alt="css" width="26px" src="![image](https://user-images.githubusercontent.com/48062454/115431660-2d26ba80-a223-11eb-8b29-5b4885b217a5.png)"
 </div>
 
 <div>
