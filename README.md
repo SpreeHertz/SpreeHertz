@@ -23,3 +23,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SpreeHertz&show_icons=true&locale=en&layout=compact&theme=dark" alt="spree" />
 </p>
 <div>
+  
+https://discord.c99.nl/widget/theme-1/SpreeHertz#1134.png 
