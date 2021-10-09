@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on <a href="https://github.com/spreehertz/cleckzie">Cleckzie </a>
 - 🌱 I’m currently learning Vue, TypeScript and front-end stuff
-- 📫 Talk to me on [Discord](https://discord.com/users/755826968901058682)
+- 📫 Talk to me on [Discord](https://discord.com/users/755826968901058682) or [Twitter](https://twitter.com/SpreeHertz)
 
 ### My Languages and Tools:
 <div>
