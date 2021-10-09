@@ -21,7 +21,7 @@
 
 <div>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SpreeHertz&show_icons=true&locale=en&theme=dark&layout=compact" alt="spree" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SpreeHertz&show_icons=true&locale=en&theme=radical&layout=compact" alt="spree" />
 </p>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SpreeHertz&show_icons=true&locale=en&layout=compact&theme=radical" alt="spree" />
