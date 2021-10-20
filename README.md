@@ -5,7 +5,6 @@
 - 🔭 I’m currently working on *multiple projects*
 - 🌱 I’m currently learning Vue, TypeScript and front-end stuff
 - 📫 Talk to me on [Discord](https://discord.com/users/755826968901058682) or [Twitter](https://twitter.com/SpreeHertz)
-- always tryna improve <3
 
 ### My Languages and Tools:
 <div>
