@@ -8,15 +8,15 @@
 
 ### My Languages and Tools:
 <div>
-<!-- Icons from pritudev -->
-<img height="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js">&nbsp;&nbsp;
-<img height="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css">&nbsp;&nbsp;
-<img height="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html">&nbsp;&nbsp;
-<img height="33"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vue" />&nbsp;&nbsp;
-<img height="33" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs">&nbsp;&nbsp;
-<img height="33" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vsc">&nbsp;&nbsp;
-<img height="33" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb">&nbsp;&nbsp;
-<img height="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="git">&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img height="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js"></a>&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img height="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css"></a>&nbsp;&nbsp
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img height="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html"></a>&nbsp;&nbsp;
+<a href="https://vuejs.org"><img height="33"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vue" /></a>&nbsp;&nbsp;
+<a href="https://discord.js.org"><img height="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" alt="discordjs"/></a>&nbsp;&nbsp;
+<a href="https://nodejs.org"><img height="33" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></a>&nbsp;&nbsp;
+<a href="https://code.visualstudio.com"><img height="33" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vscode"></a>&nbsp;&nbsp;
+<a href="https://mongodb.com"><img height="33" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb"></a>&nbsp;&nbsp;
+<a href="https://git-scm.com/"><img height="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="git"</a>&nbsp;&nbsp;
 </div>
 
 <div>
