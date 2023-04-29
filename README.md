@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on *multiple projects*
-- 🌱 I’m currently learning Vue, TypeScript and front-end stuff
+- 🌱 I’m currently learning Vue and opencv
 - 📫 Talk to me on [Discord](https://discord.com/users/755826968901058682) or [Twitter](https://twitter.com/SpreeHertz)
 
 ### My Languages and Tools:
