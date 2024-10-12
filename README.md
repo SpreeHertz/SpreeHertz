@@ -1,9 +1,7 @@
 ### 👋 Hello!
 
+I pursue web app and bot development as a hobby. I am interested to explore other fields but I'm Inactive as of now to focus on academics.
 
-
-- 🔭 I’m currently working on *multiple projects*
-- 🌱 I’m currently learning Vue and opencv
 - 📫 Talk to me on [Discord](https://discord.com/users/755826968901058682) or [Twitter](https://twitter.com/SpreeHertz)
 
 ### My Languages and Tools:
