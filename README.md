@@ -1,7 +1,6 @@
 ### 👋 Hello!
 
 I pursue web app and bot development as a hobby. I am interested to explore other fields but I'm Inactive as of now to focus on academics.
-(I know, my CSS skills are terrible)
 
 - 📫 Talk to me on [Discord](https://discord.com/users/755826968901058682) or [Twitter](https://twitter.com/SpreeHertz)
 
